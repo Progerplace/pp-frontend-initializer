@@ -1,0 +1,19 @@
+{
+  "name": "pp-frontend-initializer",
+  "version": "1.0.0",
+  "nodeVersion": "16.15.0",
+  "npmVersion": "8.5.5",
+  "main": "index.js",
+  "author": {
+    "name": "Progerplace",
+    "email": "info@progerplace.ru",
+    "url": "https://progerplace.ru"
+  },
+  "license": "MIT",
+  "files": [
+    "package.json",
+    "readme.md",
+    "vue2.js",
+    "vue3.js"
+  ]
+}
